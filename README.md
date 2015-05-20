@@ -1,0 +1,2 @@
+# jQueryTableResize
+jQuery table resize
